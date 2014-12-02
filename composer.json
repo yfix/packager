@@ -15,7 +15,7 @@
 			"name": "Yfix dev",
 			"homepage": "https://github.com/yfix",
 			"role": "Contributor"
-        	}
+        }
 	],
 	"require": {
 		"php": ">=5.2"
