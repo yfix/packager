@@ -1,0 +1,20 @@
+{
+	"name": "yfix/packager",
+	"description": "Packager",
+	"keywords": ["packager"],
+	"homepage": "https://github.com/kamicane/packager",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Valerio Proietti",
+			"email": "kamicane@gmail.com",
+			"homepage": "http://mad4milk.net"
+		}
+	],
+	"require": {
+		"php": ">=5.2"
+	},
+	"autoload": {
+		"classmap": ["."]
+	}
+}
